@@ -26,9 +26,9 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             //Items 3- Variables float 
 
-            float pasajes="15";
+            float pasajes="20";
             float comida= "20";
-            float ropa= "30";
+            float ropa= "40";
 
             //Items 4- Variables boolean 
 
